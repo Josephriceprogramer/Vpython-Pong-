@@ -1,3 +1,7 @@
+
+""" Required Vpython """
+
+
 from visual import *
 
 scene.width = 1000
